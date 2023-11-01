@@ -1,0 +1,4 @@
+w1 = 0 pounds
+w2 = 2 ounces
+w3 = 9 grams
+kTon = 2000 pounds
